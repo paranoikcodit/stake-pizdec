@@ -1,0 +1,5 @@
+accounts_path = "accounts.txt"
+rpc_url = "https://api.mainnet-beta.solana.com"
+amount_range = [1, 2] # ЕСЛИ НАДО В ДИАПАЗОНЕ ЕБАШИТЬ
+amount = 1 # ЕСЛИ НАДО СТАТИК ЕБАШИТЬ
+fee_payer = "" # ЕСЛИ ВЫ ХОТИТЕ БЛЯТЬ НАХУЙ ГАЗЮЛЬКУ С ОДНОГО АККАУНТА ПЛАТИТЬ!!!!!!!!!
